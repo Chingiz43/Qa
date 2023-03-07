@@ -1,0 +1,29 @@
+.signUp_main {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 382px;
+    background: #FFFFFF;
+    border: 1px solid #E6E6E6;
+    border-radius: 5px;
+    padding: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+
+    h1 {
+        text-align: center;
+        font-weight: 500;
+        font-size: 30px;
+        line-height: 140%;
+    }
+
+    .inputs_btn{
+        max-width: 330px;
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        margin: 0 auto;
+       
+  
+    }
+}
